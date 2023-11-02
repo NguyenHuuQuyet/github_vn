@@ -24,6 +24,9 @@ Remote
 - git branch -d {branch name}
 // day them 1 branch
 - git push (-u origin tenbranch)
+- git remote add origin {repo url}
 // keo 1 nhanh tren remote xuong local
 - git fetch origin
-- git checkout -b staging origin/staging
+- git checkout -b {branch name} origin/{branch name}
+// keo khi merge cac nhanh tren remote
+- git pull 
