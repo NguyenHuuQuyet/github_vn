@@ -22,4 +22,8 @@ Remote
 - git merge {branch name}
 // xoa nhanh
 - git branch -d {branch name}
-- git push
+// day them 1 branch
+- git push (-u origin tenbranch)
+// keo 1 nhanh tren remote xuong local
+- git fetch origin
+- git checkout -b staging origin/staging
