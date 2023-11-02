@@ -6,7 +6,7 @@ Conflict
 Local
 Remote 
 
-#Command
+# Command
 - git init
 - git status
 - git add
