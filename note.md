@@ -3,6 +3,8 @@
 Repository (Repo)
 Branch
 Conflict
+Local
+Remote 
 
 #Command
 - git init
@@ -20,3 +22,4 @@ Conflict
 - git merge {branch name}
 // xoa nhanh
 - git branch -d {branch name}
+- git push
