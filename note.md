@@ -2,6 +2,7 @@
 
 Repository (Repo)
 Branch
+Conflict
 
 #Command
 - git init
@@ -15,3 +16,7 @@ Branch
 - git branch 
 // Tao branch moi
 - git checkout -b {branch name}
+// gop cac nhanh lai voi nhau
+- git merge {branch name}
+// xoa nhanh
+- git branch -d {branch name}
